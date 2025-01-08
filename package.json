@@ -1,0 +1,16 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Terry Ward <tward5824@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "A repository for my Codewars solutions.",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-sorted": "^1.0.15"
+  }
+}
