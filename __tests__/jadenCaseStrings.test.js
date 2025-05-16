@@ -1,4 +1,4 @@
-require("../jadenCaseStrings");
+require("../fundamentals/strings/jadenCaseStrings");
 
 test("converts a string to JadenCase", () => {
   const input = "how can mirrors be real if our eyes aren't real";

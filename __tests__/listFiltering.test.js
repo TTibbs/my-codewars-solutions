@@ -1,4 +1,4 @@
-const filterList = require("../listFiltering");
+const filterList = require("../fundamentals/data-structures/listFiltering");
 
 describe("filterList", () => {
   test("should filter an array and return the numbers only from it", () => {

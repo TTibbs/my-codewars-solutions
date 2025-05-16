@@ -1,4 +1,4 @@
-const positiveSum = require("../sumOfPositive");
+const positiveSum = require("../fundamentals/arrays/sumOfPositive");
 
 describe("positiveSum", () => {
   test("should return 0 when input is an empty array", () => {

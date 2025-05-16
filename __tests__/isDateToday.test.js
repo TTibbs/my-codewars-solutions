@@ -1,4 +1,4 @@
-const isToday = require("../isDateToday");
+const isToday = require("../fundamentals/dates/isDateToday");
 
 describe("isToday", () => {
   test("should return true when the date is today", () => {

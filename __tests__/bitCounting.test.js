@@ -1,4 +1,4 @@
-const countBits = require("../bitCounting");
+const countBits = require("../algorithms/bitCounting");
 
 describe("countBits", () => {
   test("should return 0 when input is 0", () => {

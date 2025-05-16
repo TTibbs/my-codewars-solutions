@@ -1,4 +1,4 @@
-const findNeedle = require("../needleInHaystack");
+const findNeedle = require("../fundamentals/arrays/needleInHaystack");
 
 describe("findNeedle", () => {
   test("should return the index of the word 'needle' in the array", () => {

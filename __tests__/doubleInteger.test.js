@@ -1,4 +1,4 @@
-const doubleInteger = require("../doubleInteger");
+const doubleInteger = require("../fundamentals/numbers/doubleInteger");
 
 describe("doubleInteger", () => {
   test("should return 0 when input is 0", () => {

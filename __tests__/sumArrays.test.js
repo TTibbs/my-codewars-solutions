@@ -1,4 +1,4 @@
-const sum = require("../sumArrays");
+const sum = require("../fundamentals/arrays/sumArrays");
 
 describe("sum", () => {
   test("should return 0 when input is an empty array", () => {

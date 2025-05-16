@@ -1,4 +1,4 @@
-const solution = require("../reversedStrings");
+const solution = require("../fundamentals/strings/reversedStrings");
 
 describe("solution", () => {
   test("should return the reversed string", () => {

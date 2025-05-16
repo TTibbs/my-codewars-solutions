@@ -1,4 +1,4 @@
-const boolToWord = require("../booleanToString");
+const boolToWord = require("../fundamentals/strings/booleanToString");
 
 describe("boolToWord", () => {
   test("should return 'Yes' when input is true", () => {

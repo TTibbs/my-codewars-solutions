@@ -1,4 +1,4 @@
-const abbrevName = require("../nameAbbreviation");
+const abbrevName = require("../fundamentals/strings/nameAbbreviation");
 
 describe("abbrevName", () => {
   test("should return the abbreviation of a name", () => {

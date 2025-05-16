@@ -1,4 +1,4 @@
-const usdcny = require("../usdToCny");
+const usdcny = require("../fundamentals/numbers/usdToCny");
 
 describe("usdcny", () => {
   test("should return the CNY equivalent of the given USD amount", () => {

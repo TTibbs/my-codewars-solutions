@@ -1,4 +1,4 @@
-const encode = require("../stringCypher");
+const encode = require("../fundamentals/strings/stringCypher");
 
 describe("encode", () => {
   test("should return the cyphered string from the input", () => {

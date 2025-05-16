@@ -1,4 +1,4 @@
-const validatePIN = require("../validPinCode");
+const validatePIN = require("../fundamentals/strings/validPinCode");
 
 describe("validatePin", () => {
   test("should return true if the pin is valid", () => {

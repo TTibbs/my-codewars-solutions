@@ -1,4 +1,4 @@
-const invert = require("../invertValues");
+const invert = require("../fundamentals/arrays/invertValues");
 
 describe("invert", () => {
   test("should return an empty array when input is an empty array", () => {

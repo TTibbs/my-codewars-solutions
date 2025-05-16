@@ -1,4 +1,4 @@
-const removeChar = require("../removeFirstAndLastCharacter");
+const removeChar = require("../fundamentals/strings/removeFirstAndLastCharacter");
 
 describe("removeChar", () => {
   test("should return an empty string when input is an empty string", () => {

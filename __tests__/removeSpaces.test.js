@@ -1,4 +1,4 @@
-const noSpace = require("../removeSpaces");
+const noSpace = require("../fundamentals/strings/removeSpaces");
 
 describe("noSpace", () => {
   test("should return an empty string when input is an empty string", () => {

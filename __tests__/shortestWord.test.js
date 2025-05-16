@@ -1,4 +1,4 @@
-const findShort = require("../shortestWord");
+const findShort = require("../fundamentals/strings/shortestWord");
 
 describe("findShort", () => {
   test("should return the length of the shortest word", () => {

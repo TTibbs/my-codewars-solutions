@@ -1,4 +1,4 @@
-const isPrime = require("../primeNumbers");
+const isPrime = require("../algorithms/primeNumbers");
 
 describe("isPrime", () => {
   test("should return false if input number is not a prime number", () => {

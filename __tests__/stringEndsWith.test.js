@@ -1,4 +1,4 @@
-const solution = require("../stringEndsWith");
+const solution = require("../fundamentals/strings/stringEndsWith");
 
 describe("stringEndsWith", () => {
   test("should return true when the ending is at the end of the string", () => {

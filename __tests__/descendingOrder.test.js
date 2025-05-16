@@ -1,4 +1,4 @@
-const descendingOrder = require("../descendingOrder");
+const descendingOrder = require("../fundamentals/numbers/descendingOrder");
 
 describe("descendingOrder", () => {
   test("should return 0 when input is 0", () => {
